@@ -1,0 +1,13 @@
+{
+    "name": "arash/logevent",
+    "description": "log from all event in system.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Arash Hosseinabadi",
+            "email": "arash.hosseinabady@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
