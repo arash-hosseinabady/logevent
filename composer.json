@@ -9,7 +9,7 @@
       "email": "arash.hosseinabady@gmail.com"
     }
   ],
-  "minimum-stability": "dev",
+  "minimum-stability": "1.0.0",
   "require": {
     "php": ">=5.6.0",
     "monolog/monolog": ">=1.22.0"
